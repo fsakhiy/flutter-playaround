@@ -56,7 +56,7 @@ class HomePage extends StatelessWidget {
           const AppTitle(),
           Expanded(
               child: Center(
-                child: Text('hello, world', style: GoogleFonts.poppins(textStyle: const TextStyle(fontSize: 30, fontWeight: FontWeight.bold))),
+                child: Text('welcome to flutter ;)', style: GoogleFonts.poppins(textStyle: const TextStyle(fontSize: 30, fontWeight: FontWeight.bold))),
               ),
           ),
           const Footer(),
